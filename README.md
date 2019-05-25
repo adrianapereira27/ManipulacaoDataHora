@@ -1,0 +1,2 @@
+# ManipulacaoDataHora
+Projeto Delphi
